@@ -11,7 +11,7 @@ public class TestClass {
 
 	@Test
 	public void testcase02() {
-		System.out.println( " Hello TC02");
+		System.out.println( " Hello TC022");
 	}
 
 	@Test
